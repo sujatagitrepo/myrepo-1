@@ -1,0 +1,27 @@
+body {
+    background-color: purple; /* light grey background */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;       /* center me */
+    font-size: 50px;          /* size */
+    font-family: Arial, sans-serif; /* font style */
+    color: #333;              /* text color */
+    margin-top: 200px;        /* thoda neeche */
+}
+body {
+    background-color: #f2f2f2; /* light grey background */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;       /* center me */
+    font-size: 50px;          /* size */
+    font-family: Arial, sans-serif; /* font style */
+    color: #333;              /* text color */
+    margin-top: 200px;        /* thoda neeche */
+}
+
